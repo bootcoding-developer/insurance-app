@@ -48,7 +48,7 @@ The Insurance App is a full-stack MERN application designed to manage insurance 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/insurance-app.git
+   git clone https://github.com/bootcoding-developer/insurance-app.git
    cd insurance-app
    ```
 
