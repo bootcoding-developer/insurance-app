@@ -2,6 +2,10 @@
 
 The Insurance App is a full-stack MERN application designed to manage insurance records. It provides three core features for managing Customers, Insurers, and Insurance policies. Each module includes CRUD (Create, Read, Update, Delete) operations, along with additional features like searching, sorting, filtering, and pagination.
 
+## Live Demo
+
+[Bootcoding Insurance App](https://bootcoding-insurance-app.vercel.app/)
+
 ## Features
 
 ### 1. Customer Management
